@@ -15,7 +15,7 @@ class CategoryResource extends Resource
 {
     protected static ?string $model = Category::class;
 
-    // protected static ?string $slug = 'sv23810310156-categories';
+    protected static ?string $slug = 'sv23810310156-categories';
 
     protected static ?string $navigationIcon = 'heroicon-o-tag';
 
